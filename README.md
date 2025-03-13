@@ -1,3 +1,5 @@
+# Name : Elamaran S E
+# Register No. : 212222230036
 # Exno:1
 Data Cleaning Process
 
